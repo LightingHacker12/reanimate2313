@@ -1,0 +1,11 @@
+if Reanimate == "SR" then
+loadstring(game:HttpGet(("your url to script here"), true))()
+end
+
+if Reanimate == "WU" then
+loadstring(game:HttpGet(("your url to script here"), true))()
+end
+
+if Reanimate == "WUFL" then
+loadstring(game:HttpGet(("your url to script here"), true))()
+end
