@@ -1,1 +1,29 @@
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
 
+local win = lib:Window("Admin Mode",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
+
+local tab = win:Tab("Reanimate")
+
+tab:Button("Reanimate", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what"), true))()
+end)
+
+tab:Button("Bot Reanimate", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/%3F!"), true))()
+end)
+
+tab:Button("Fling Reanimate", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what%20fling"), true))()
+end)
+
+tab:Button("R15 TO R6 Reanimate", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what"), true))()
+end)
+
+tab:Label("Label")
+
+local changeclr = win:Tab("Change UI Color")
+
+changeclr:Colorpicker("Change UI Color",Color3.fromRGB(44, 120, 224), function(t)
+lib:ChangePresetColor(Color3.fromRGB(t.R * 255, t.G * 255, t.B * 255))
+end)
