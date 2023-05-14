@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://github.com/LightingHacker12/reanimate2313/blob
 end
 
 if Reanimate == "WU" then
-loadstring(game:HttpGet(("your url to script here"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what"), true))()
 end
 
 if Reanimate == "WUFL" then
