@@ -1,5 +1,5 @@
 if Reanimate == "SR" then
-loadstring(game:HttpGet(("your url to script here"), true))()
+loadstring(game:HttpGet(("https://github.com/LightingHacker12/reanimate2313/blob/main/sukma"), true))()
 end
 
 if Reanimate == "WU" then
