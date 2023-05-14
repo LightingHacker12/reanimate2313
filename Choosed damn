@@ -9,7 +9,3 @@ end
 if Reanimate == "WUFL" then
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/wow"), true))()
 end
-
-if Reanimate == "Nameless" then
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what%20fling"), true))()
-end
