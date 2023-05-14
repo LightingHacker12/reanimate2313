@@ -7,7 +7,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/rea
 end
 
 if Reanimate == "WUFL" then
-loadstring(game:HttpGet(("your url to script here"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/wow"), true))()
 end
 
 if Reanimate == "Nameless" then
