@@ -7,7 +7,7 @@ Main_:CreateButton("Reanimate", "None", "", "", "", "", function()
 end)
 
 Main_:CreateButton("FDLESS Reanimate", "None", "", "", "", "", function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/what%20fling"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/normal"))()
 end)
 
 Main_:CreateButton("Nameless", "None", "", "", "", "", function()
