@@ -196,8 +196,7 @@ local function align(Part0, Part1)
 
 if rerun == true then
 while true do
-if Enum.HumanoidStateType.Dead then
-wait(0.0)
+wait(8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LightingHacker12/reanimate2313/main/", true))()
 end
 end
